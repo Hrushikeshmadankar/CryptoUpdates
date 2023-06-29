@@ -1,6 +1,6 @@
 CryptoUpdates
 
-**Description:** CryptoUpdates is a website that provides real-time information about various cryptocurrencies. It is built using React.js, Tailwind CSS, and the CoinGecko API. This Readme file provides an overview of the project, installation instructions, and other relevant details.
+**Description:** CryptoUpdates is a website that provides real-time information about various cryptocurrencies. It is built using React.js, Tailwind CSS, and the CoinGecko API. 
 
 **Features:** 
 Real-time updates: The website fetches data from the CoinGecko API to provide up-to-date information on different cryptocurrencies.
